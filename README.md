@@ -90,3 +90,7 @@ If you find our work useful in your research, please consider citing:
   publisher={IEEE}
 }
 ```
+
+# License
+
+You may use this source code for academic and research purposes. Commercial use is strictly prohibited.
